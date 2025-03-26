@@ -12,7 +12,7 @@ title                    : "Daoguang Yang (杨道广)/ Researcher"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://daoguang-polimi.github.io
+#url                      : https://daoguang-polimi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 
