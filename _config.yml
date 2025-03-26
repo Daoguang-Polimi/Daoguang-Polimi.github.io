@@ -14,7 +14,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://daoguang-polimi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+#repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   bio              : "Deep learning, eXplainable artificial intelligence, large language model"
   location         : "Shanghai, China"
   employer         : "Politecnico di Milano"
-  uri              : https://daoguang-polimi.github.io
+  uri              : # https://daoguang-polimi.github.io
   #email            : "yangdg@shanghai-electric.com" 
 
   # Academic websites
