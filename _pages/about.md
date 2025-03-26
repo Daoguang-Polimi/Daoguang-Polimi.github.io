@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a researcher in equipment health monitoring, and my main research interest is the application of artificial intelligence algorithms to solve problems during equipment operation, including fault diagnosis, predictive maintenance, signal processing, etc. In addition, based on the strong performance of the large language models, I would like to develop some agents in the near future, which may be called data analysis agent, fault diagnosis agent, etc.
 
-I received my Ph.D. in Mechanical Engineering from Politecnico di Milano in 2023, supervised by Prof. Hamid Reza Karimi. I got my master degree in Power machinery and engineering from Chongqing University in 2019 and my bachelor degree in thermal and power engineering from Hunan University.
+I received my Ph.D. in Mechanical Engineering from Politecnico di Milano in 2023, supervised by [Prof. Hamid Reza Karimi](https://www.mecc.polimi.it/en/research/faculty/prof-hamid-reza-karimi). I got my master degree in Power machinery and engineering from Chongqing University in 2019 and my bachelor degree in thermal and power engineering from Hunan University.
 
 A data-driven personal website
 ======
