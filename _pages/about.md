@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Daoguang's personal page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a researcher in equipment health monitoring, and my main research interest is the application of artificial intelligence algorithms to solve problems during equipment operation, including fault diagnosis, predictive maintenance, signal processing, etc. In addition, based on the strong performance of the large language models, I would like to develop some agents in the near future, which may be called data analysis agent, fault diagnosis agent, etc.
+
+I received my Ph.D. in Mechanical Engineering from Politecnico di Milano in 2023, supervised by Prof. Hamid Reza Karimi. I got my master degree in Power machinery and engineering from Chongqing University in 2019 and my bachelor degree in thermal and power engineering from Hunan University.
 
 A data-driven personal website
 ======
