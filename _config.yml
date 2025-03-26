@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Shanghai, China"
-title                    : "Daoguang Yang (杨道广)/ Researcher"
+title                    : "Daoguang Yang(杨道广)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "CV3.png"
-  name             : "Daoguang Yang（杨道广）"
+  name             : "Daoguang Yang(杨道广)"
   pronouns         : # example: "she/her"  
   bio              : "Deep learning, XAI, large language model, fault diagnosis"
   location         : "Shanghai, China"
